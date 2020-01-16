@@ -1,0 +1,69 @@
+body {
+    background: #5ca0d3;
+}
+
+
+.Contenedor {
+    color: white;
+    background: #5e6073;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: auto;
+    padding: 30px;
+
+}
+
+.Formulario {
+    text-align: center;
+}
+
+.Tabla {
+    text-align: center;
+}
+
+.barra_tabla {
+    font-weight: bold;
+    font-size: 18px;
+    background: #5ca0d3;
+}
+
+.titulos_actualizar {
+    background: #5ca0d3;
+    font-size: 18px;
+}
+
+.campo_texto {
+    text-align: left;
+}
+
+.boton {
+    padding: 3px;
+}
+
+.Botones {
+    border: none;
+}
+
+input {
+    font-size: 15px;
+}
+
+td {
+    border: 2px solid white;
+    padding: 10px;
+}
+
+h1 {
+    background: #5ca0d3;
+    margin: 10px auto;
+    width: 500px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+
+h2,
+p {
+    display: inline;
+}
